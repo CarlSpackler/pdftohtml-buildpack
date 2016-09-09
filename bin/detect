@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+echo "pdftothml-41a"
+exit 0
+
